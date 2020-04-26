@@ -1,5 +1,5 @@
 # Internship-test-master
-Firstly navigate to your directory, where this solution.py file is present
+Firstly navigate to directory, where this solution.py file is present
 Then run the "solution.py" file by using following command:
 
 		python solution.py
@@ -10,5 +10,5 @@ The output directory will contain two file after executing the above mentioned c
 1. filteredCountry.csv &
 2. lowestPrice.csv
 
-filteredCountry.csv contains the data as per your instructions given in Problem Statement "1"
-and lowestPrice.csv contains the data as per your instructions given in Problem Statement "2"
+filteredCountry.csv contains the data as  instructions given in Problem Statement "1"
+and lowestPrice.csv contains the data as  instructions given in Problem Statement "2"
